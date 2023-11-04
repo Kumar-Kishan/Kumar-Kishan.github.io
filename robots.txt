@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://kishankumar.me/sitemap/sitemap-index.xml
-Host: https://kishankumar.me
